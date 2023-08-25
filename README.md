@@ -1,4 +1,4 @@
-# cocus-devops-test
+# COCUS-DEVOPS-TEST
 
 <img width="964" alt="image" src="https://github.com/FavourOkonta/cocus-devops-test/assets/71400388/604f9191-746a-44e5-8174-fb9c27d02d30">
 
