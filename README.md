@@ -1,4 +1,8 @@
 # cocus-devops-test
+
+![Uploading image.png…]()
+
+
 A Devops test to implement a Python3 script using boto3 and AWS
 
 There are few servers running in the AWS account.
