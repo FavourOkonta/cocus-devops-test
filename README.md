@@ -1,6 +1,6 @@
 # cocus-devops-test
 
-![Uploading image.png…]()
+<img width="964" alt="image" src="https://github.com/FavourOkonta/cocus-devops-test/assets/71400388/604f9191-746a-44e5-8174-fb9c27d02d30">
 
 
 A Devops test to implement a Python3 script using boto3 and AWS
