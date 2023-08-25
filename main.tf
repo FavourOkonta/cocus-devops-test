@@ -1,9 +1,9 @@
 
 resource "aws_lambda_function" "cocus_lambda" {
-  filename         = "cocus4.zip" # Change to the appropriate python script to be deployed
-  function_name    = "cocus-test-4"
+  filename         = "cocus.zip" # Change to the appropriate python script to be deployed
+  function_name    = "cocus-test"
   role             = aws_iam_role.cocus_lambda_role.arn
-  handler          = "cocus4.lambda_handler"
+  handler          = "cocus.lambda_handler"
   runtime          = "python3.11"  # Change to the appropriate runtime
 }
 
